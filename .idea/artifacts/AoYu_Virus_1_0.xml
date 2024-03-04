@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="AoYu_Virus_1.0">
+    <output-path>$PROJECT_DIR$/out/artifacts/AoYu_Virus_1_0</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.aoyu.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="AoYu" />
+        <option name="vendor" value="AoYu" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="AoYu_Virus_1_0.jar">
+        <element id="module-output" name="AoYu_Virus_1.0" />
+      </element>
+    </root>
+  </artifact>
+</component>
